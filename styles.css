@@ -4,7 +4,9 @@ html {
   padding: 0;
   background: white;
 }
-
+html {
+  scroll-behavior: smooth;
+}
 body {
   font-family: "Source Sens 3", sans-serif;
 }
